@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musixmatch test</string>
+
+    <string name="list_empty">The list is empty</string>
+
+    <string name="error">Error has been occurred</string>
+</resources>
